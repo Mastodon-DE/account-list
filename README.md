@@ -1,12 +1,13 @@
 # Account List
-Eine Liste mit deutschsprachigen Fediverse Accounts mit dem Ziel eine bessere Zurecht- und Kontaktfindung im Fediverse zu ermöglichen und Accounts mit großartigen Inhalten zu würdigen.
+Eine Liste mit deutschsprachigen Fediverse Accounts mit dem Ziel eine bessere Zurecht- und Kontaktfindung zu ermöglichen und Accounts mit großartigen Inhalten zu würdigen.
 
-Die Inhalte dieser Liste sind in der Mammoth App für Mastodon zu finden (und ab einem gewissen Zeitpunkt auch hier zum Download oder über andere Wege nutzbar)
+Die Inhalte dieser Liste sind in der [Mammoth App](https://getmammoth.app/) für Mastodon zu finden (und ab einem gewissen Zeitpunkt auch hier zum Download oder über andere Wege nutzbar)
 
 Es gilt:
 - Wer nicht auf der Liste stehen will wird selbstverständlich entfernt
 - Organisationen und Privatpersonen sollten über ihren Eintrag in Kenntnis versetzt werden
 - Jeder kann mittels Issue/PR einen Account für diese Liste vorschlagen (Verbessert gerne die Liste :D)
+- Schreibt uns gerne eine Mail oder Fediverse Nachricht bei Fragen
 
 ## Kategorien 
 
