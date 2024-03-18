@@ -1,10 +1,12 @@
 # Account List
 Eine Liste mit deutschsprachigen Fediverse Accounts
 
-[Politik](#politik)
-[Nachrichten](#nachrichten)
-[Bildung](#bildung)
-[Organisationen](#organisationen)
+## Kategorien 
+
+- [Politik](#politik)
+- [Nachrichten](#nachrichten)
+- [Bildung](#bildung)
+- [Organisationen](#organisationen)
 
 
 
@@ -108,4 +110,8 @@ Eine Liste mit deutschsprachigen Fediverse Accounts
 
 ## Wissenschaft
 
+TBD
+
 ## Kunst, Musik und Kultur
+
+TBD
