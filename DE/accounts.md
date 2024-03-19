@@ -1,14 +1,14 @@
 ## Kategorien 
 
 - [Politik](#politik)
-    - Goverment [CSV](/DE/goverment-2024-03-19.csv) [LIST](#bund)
-    - Parties [CSV](/DE/parties-2024-03-19.csv) [LIST](#parteien)
+    - Bund [CSV](/DE/goverment-2024-03-19.csv) [LIST](#bund)
+    - Parteien [CSV](/DE/parties-2024-03-19.csv) [LIST](#parteien)
 - [Nachrichten](#nachrichten)
-    - News [CSV](/DE/news-2024-03-19.csv) [LIST](#nachrichten)
+    - Nachrichten [CSV](/DE/news-2024-03-19.csv) [LIST](#nachrichten)
 - [Bildung](#bildung)
-    - Univerities [CSV](/DE/universities-2024-03-19.csv) [LIST](#universitäten)
+    - Universitäten [CSV](/DE/universities-2024-03-19.csv) [LIST](#universitäten)
 - [Organisationen](#organisationen)
-    - Organisations [CSV](/DE/organisations-2024-03-19.csv) [LIST](#organisationen)
+    - Organisationen [CSV](/DE/organisations-2024-03-19.csv) [LIST](#organisationen)
 - [IT](#it)
     - IT [CSV](/DE/it-2024-03-19.csv) [LIST](#it)
 
