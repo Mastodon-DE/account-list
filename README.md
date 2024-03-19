@@ -1,5 +1,5 @@
 # Account List
-Eine Liste mit deutschsprachigen Fediverse Accounts mit dem Ziel eine bessere Zurecht- und Kontaktfindung zu ermöglichen und Accounts mit großartigen Inhalten zu würdigen.
+Eine Sammlung an Listen mit deutschsprachigen Fediverse Accounts mit dem Ziel eine bessere Zurecht- und Kontaktfindung zu ermöglichen und Accounts mit großartigen Inhalten zu würdigen.
 
 Die Inhalte dieser Liste sind in der [Mammoth App](https://getmammoth.app/) für Mastodon zu finden (und ab einem gewissen Zeitpunkt auch hier zum Download oder über andere Wege nutzbar)
 
@@ -9,11 +9,18 @@ Es gilt:
 - Jeder kann mittels Issue/PR einen Account für diese Liste vorschlagen (Verbessert gerne die Liste :D)
 - Schreibt uns gerne eine Mail oder Fediverse Nachricht bei Fragen
 
+[Die Sammlung an Listen ist hier zu finden](/DE/accounts.md)
 
 
+## Account List
 
-Goverment [CSV](/DE/goverment-2024-03-19.csv)
-News [CSV](/DE/news-2024-03-19.csv)
-Parties [CSV](/DE/parties-2024-03-19.csv)
-Univerities [CSV](/DE/universities-2024-03-19.csv)
-IT [CSV](/DE/it-2024-03-19.csv)
+This is a collection of lists with accounts on the fediverse build for better navigation and connection.
+You can find the content of these lists inside of the [Mammoth App](https://getmammoth.app/) for Mastodon or Download them here.
+
+Please keep in mind:
+- Nobody will be forced to be located in the list
+- Accounts added to the list should be informed about it
+- Issues/PR are welcome
+- Contact us if you have questions
+
+[You can find the collection here](/EN/accounts.md)
