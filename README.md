@@ -9,7 +9,8 @@ Es gilt:
 - Jeder kann mittels Issue/PR einen Account für diese Liste vorschlagen (Verbessert gerne die Liste :D)
 - Schreibt uns gerne eine Mail oder Fediverse Nachricht bei Fragen
 
-[Die Sammlung an Listen ist hier zu finden (deutsschprachig)](/DE/accounts.md)
+[Englischsprachige Listen](/EN/accounts.md)
+[Deutschsprachige Listen](/DE/accounts.md)
 
 
 # Account List
@@ -23,4 +24,5 @@ Please keep in mind:
 - Issues/PR are welcome
 - Contact us if you have questions
 
-[You can find the collection here (english speaking)](/EN/accounts.md)
+[Lists in English](/EN/accounts.md)
+[Lists in German](/DE/accounts.md)
