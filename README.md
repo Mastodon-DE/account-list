@@ -12,7 +12,7 @@ Es gilt:
 [Die Sammlung an Listen ist hier zu finden (deutsschprachig)](/DE/accounts.md)
 
 
-## Account List
+# Account List
 
 This is a collection of lists with accounts on the fediverse build for better navigation and connection.
 You can find the content of these lists inside of the [Mammoth App](https://getmammoth.app/) for Mastodon or Download them here.
